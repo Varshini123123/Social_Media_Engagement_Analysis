@@ -1,0 +1,31 @@
+post_id,platform,content_type,caption,campaign,post_date,post_time,likes,comments,shares,clicks,impressions,reach,hashtags,post_datetime,post_day_of_week,post_hour,month_name,total_engagements,engagement_rate
+post_001,Instagram,Video,Product launch teaser,Spring Launch,2024-01-05,1900-01-01 18:30:00,420,95,58,32,23000,18500,#launch #video #spring,2024-01-05 18:30:00,Friday,18,Jan 2024,605,2.630434782608696
+post_002,Facebook,Image,Behind-the-scenes post,Brand Story,2024-01-06,1900-01-01 09:15:00,280,46,27,12,16500,12000,#behindthescenes #brand,2024-01-06 09:15:00,Saturday,9,Jan 2024,365,2.212121212121212
+post_003,LinkedIn,Text,Industry insight carousel,Thought Leadership,2024-01-07,1900-01-01 12:00:00,210,67,18,14,14200,9900,#insights #leadership,2024-01-07 12:00:00,Sunday,12,Jan 2024,309,2.176056338028169
+post_004,X,Video,Trending topic commentary,Community Pulse,2024-01-08,1900-01-01 20:45:00,310,81,41,21,19800,14300,#trending #community,2024-01-08 20:45:00,Monday,20,Jan 2024,453,2.287878787878788
+post_005,Instagram,Carousel,Customer testimonial,Customer Voice,2024-01-09,1900-01-01 17:00:00,470,110,63,28,29600,22000,#testimonial #engagement,2024-01-09 17:00:00,Tuesday,17,Jan 2024,671,2.266891891891892
+post_006,Facebook,Video,Product demo,Spring Launch,2024-01-10,1900-01-01 19:20:00,360,88,52,18,21200,16800,#demo #product,2024-01-10 19:20:00,Wednesday,19,Jan 2024,518,2.4433962264150946
+post_007,LinkedIn,Image,Team culture snapshot,People & Culture,2024-01-11,1900-01-01 08:30:00,190,39,17,9,9800,7600,#culture #team,2024-01-11 08:30:00,Thursday,8,Jan 2024,255,2.6020408163265305
+post_008,X,Text,Poll question,Community Pulse,2024-01-12,1900-01-01 15:30:00,260,72,30,16,17600,12900,#poll #community,2024-01-12 15:30:00,Friday,15,Jan 2024,378,2.1477272727272725
+post_009,Instagram,Story,Flash sale reminder,Flash Sale,2024-01-13,1900-01-01 21:00:00,520,134,71,44,35800,28200,#sale #flashsale,2024-01-13 21:00:00,Saturday,21,Jan 2024,769,2.14804469273743
+post_010,Facebook,Image,Customer review highlight,Customer Voice,2024-01-14,1900-01-01 11:10:00,240,58,25,10,15400,11800,#review #customers,2024-01-14 11:10:00,Sunday,11,Jan 2024,333,2.1623376623376624
+post_011,YouTube,Video,Educational tutorial,Learning Hub,2024-01-15,1900-01-01 16:45:00,610,128,95,53,40100,31800,#tutorial #learn,2024-01-15 16:45:00,Monday,16,Jan 2024,886,2.209476309226933
+post_012,Instagram,Video,UGC montage,Community Pulse,2024-01-17,1900-01-01 18:15:00,430,99,61,19,24900,19400,#ugc #community,2024-01-17 18:15:00,Wednesday,18,Jan 2024,609,2.4457831325301207
+post_013,LinkedIn,Carousel,Executive summary update,Thought Leadership,2024-01-18,1900-01-01 09:45:00,240,58,22,12,16800,12200,#executive #insights,2024-01-18 09:45:00,Thursday,9,Jan 2024,332,1.9761904761904763
+post_014,X,Image,Product FAQ thread,Spring Launch,2024-01-19,1900-01-01 14:20:00,220,44,24,15,13700,10400,#faq #product,2024-01-19 14:20:00,Friday,14,Jan 2024,303,2.2116788321167884
+post_015,Instagram,Carousel,Event recap,Brand Story,2024-01-20,1900-01-01 19:50:00,390,92,48,25,23200,17300,#event #brand,2024-01-20 19:50:00,Saturday,19,Jan 2024,555,2.3922413793103448
+post_016,Facebook,Text,Audience opinion poll,Community Pulse,2024-01-21,1900-01-01 13:00:00,180,35,16,8,9400,7900,#poll #audience,2024-01-21 13:00:00,Sunday,13,Jan 2024,239,2.5425531914893615
+post_017,YouTube,Video,Live product walkthrough,Spring Launch,2024-01-22,1900-01-01 17:45:00,700,162,105,67,47200,36100,#live #launch,2024-01-22 17:45:00,Monday,17,Jan 2024,1034,2.190677966101695
+post_018,Instagram,Image,New collection reveal,Spring Launch,2024-01-24,1900-01-01 20:15:00,540,144,82,36,33800,26000,#collection #launch,2024-01-24 20:15:00,Wednesday,20,Jan 2024,802,2.3727810650887573
+post_019,LinkedIn,Video,Expert panel snippet,Thought Leadership,2024-01-25,1900-01-01 07:30:00,280,75,26,20,16900,14200,#panel #expert,2024-01-25 07:30:00,Thursday,7,Jan 2024,401,2.3727810650887573
+post_020,X,Video,Hot take thread,Community Pulse,2024-01-27,1900-01-01 18:00:00,289,78,33,22,18400,13700,#trending #opinion,2024-01-27 18:00:00,Saturday,18,Jan 2024,422,2.2934782608695654
+post_021,Instagram,Video,Limited-time offer,Flash Sale,2024-01-28,1900-01-01 21:30:00,590,150,91,58,39000,30500,#sale #limitedoffer,2024-01-28 21:30:00,Sunday,21,Jan 2024,889,2.2794871794871794
+post_022,Facebook,Carousel,Customer story feature,Customer Voice,2024-01-29,1900-01-01 10:40:00,270,61,29,13,17100,12900,#customers #story,2024-01-29 10:40:00,Monday,10,Jan 2024,373,2.181286549707602
+post_023,YouTube,Image,Thumbnail test post,Learning Hub,2024-01-30,1900-01-01 15:20:00,250,57,28,18,16700,12800,#thumbnail #learn,2024-01-30 15:20:00,Tuesday,15,Jan 2024,353,2.11377245508982
+post_024,Instagram,Text,Quick tip quote,Learning Hub,2024-02-02,1900-01-01 08:15:00,220,42,20,9,11200,8700,#tip #learning,2024-02-02 08:15:00,Friday,8,Feb 2024,291,2.5982142857142856
+post_025,Facebook,Video,Behind-the-scenes clip,Brand Story,2024-02-04,1900-01-01 18:40:00,330,77,38,17,18900,13900,#behindthescenes #brand,2024-02-04 18:40:00,Sunday,18,Feb 2024,462,2.4444444444444446
+post_026,LinkedIn,Text,Case study summary,Thought Leadership,2024-02-05,1900-01-01 11:50:00,300,83,41,26,21400,18100,#case-study #insights,2024-02-05 11:50:00,Monday,11,Feb 2024,450,2.102803738317757
+post_027,Instagram,Carousel,Creator collab post,Community Pulse,2024-02-08,1900-01-01 19:10:00,460,118,73,31,29100,22700,#collaboration #creator,2024-02-08 19:10:00,Thursday,19,Feb 2024,682,2.3436426116838485
+post_028,X,Image,Weekly recap,Brand Story,2024-02-09,1900-01-01 12:45:00,210,49,18,11,12600,9800,#recap #weekly,2024-02-09 12:45:00,Friday,12,Feb 2024,288,2.2857142857142856
+post_029,Instagram,Video,Limited stock announcement,Flash Sale,2024-02-11,1900-01-01 20:50:00,640,172,95,60,42500,33400,#stock #limited,2024-02-11 20:50:00,Sunday,20,Feb 2024,967,2.275294117647059
+post_030,YouTube,Video,Subscriber highlight reel,Customer Voice,2024-02-13,1900-01-01 17:15:00,680,158,110,71,47100,36500,#community #highlight,2024-02-13 17:15:00,Tuesday,17,Feb 2024,1019,2.1634819532908707
